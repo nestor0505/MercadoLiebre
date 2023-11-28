@@ -2,6 +2,10 @@ header {
     background-color:#ffe600; 
     background-size: cover;
 }
+
+html{
+    font-family: 'roboto', sans-serif;
+}
 .banner{
     width: 100%;
 
